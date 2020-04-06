@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "gulp sass",
+    "scripts": "gulp scripts",
+    "images": "gulp images",
+    "prod": "gulp sass && gulp scripts && gulp images"
   },
   "repository": {
     "type": "git",
