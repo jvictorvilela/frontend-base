@@ -19,7 +19,9 @@
     "url": "https://github.com/victorvilela00/frontend-base/issues"
   },
   "homepage": "https://github.com/victorvilela00/frontend-base#readme",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  },
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
